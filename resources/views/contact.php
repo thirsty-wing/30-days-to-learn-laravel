@@ -6,10 +6,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-        <title>Contacts</title>
+        <title>Contact</title>
 
     </head>
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
-      <h1>Hello from the contacts page.</h1>
+      <h1>Hello from the contact page.</h1>
     </body>
 </html>
