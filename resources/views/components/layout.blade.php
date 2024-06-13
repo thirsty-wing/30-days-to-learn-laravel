@@ -6,9 +6,10 @@
         content="width=device-width, user-scalable=no, inital-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Pixel Positions</title>
+    <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
-<body class="dark:bg-black">
+<body class="text-white dark:bg-black font-hanken-grotesk">
     <div class="px-10">
         <nav class="flex items-center justify-between py-4 border-b border-white/10">
             <div>
